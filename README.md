@@ -1,6 +1,6 @@
 
-<br>
 # Hi there 👋
+<br>
 <p> 
     <a href="https://discordapp.com/users/smdk#5751" target="_blank"><img alt="Discord"
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -16,10 +16,16 @@
         src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
+##  About me 
  - ![](solidity_engineer.svg)
- - Interested in EVM, Solidity,Yul,Huff,Security,DeFi,NFT
+ - Interested in EVM,DeFi,NFT
+ - Exploring ZKP
 ## Skills
 #### ⌨️ Programming languages
+- Solidity, Yul, Huff
+- Rust
+
+#### ⌨️ Frameworks
 - [Foundry](https://book.getfoundry.sh/)
 - [Hardhat](https://hardhat.org)
 - [Truffle Suite](https://trufflesuite.com)
