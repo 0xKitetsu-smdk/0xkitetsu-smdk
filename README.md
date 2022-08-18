@@ -25,10 +25,12 @@
 - Solidity, Yul, Huff
 - Rust
 
-#### ⌨️ Frameworks
+#### ⌨️ Frameworks , Libraries
 - [Foundry](https://book.getfoundry.sh/)
 - [Hardhat](https://hardhat.org)
 - [Truffle Suite](https://trufflesuite.com)
+- web3js
+- ethersjs
 
 
 
