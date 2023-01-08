@@ -32,6 +32,12 @@
 - web3js
 - ethersjs
 
+## My GitPOAPs
+<p><a href="https://www.gitpoap.io/gp/502"><img src="https://assets.poap.xyz/gitpoap-2022-smol-evm-contributor-2022-logo-1664478575915.png"  alt="poap" height="200" width="200"></a>  </p>
+<!--
+https://gitpoap-gh-badge.herokuapp.com/badges/0xdineshkumarsm
+[![GitPOAP Badge](https://public-api.gitpoap.io/v1/repo/gitpoap/gitpoap-docs/badge)](https://www.gitpoap.io/gh/gitpoap/gitpoap-docs) 
+-->
 
 
 ![Pascal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xdineshkumarsm&count_private=true&show_icons=true&theme=tokyonight)
