@@ -32,7 +32,7 @@
 - web3js
 - ethersjs
 
-## My GitPOAPs
+## GitPOAPs
 <p><a href="https://www.gitpoap.io/gp/502"><img src="https://assets.poap.xyz/gitpoap-2022-smol-evm-contributor-2022-logo-1664478575915.png"  alt="poap" height="200" width="200"></a>  </p>
 <!--
 https://gitpoap-gh-badge.herokuapp.com/badges/0xdineshkumarsm
@@ -40,8 +40,8 @@ https://gitpoap-gh-badge.herokuapp.com/badges/0xdineshkumarsm
 -->
 
 
-![Pascal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xdineshkumarsm&count_private=true&show_icons=true&theme=tokyonight)
+![Pascal's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=0xdineshkumarsm&count_private=true&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xdineshkumarsm&layout=compact&langs_count=8&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=0xdineshkumarsm&layout=compact&langs_count=8&theme=tokyonight)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=0xdineshkumarsm.count_visitors)
