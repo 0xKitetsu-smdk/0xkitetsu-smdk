@@ -6,13 +6,13 @@
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <a href="https://github.com/0xdineshkumarsm" target="_blank"><img alt="GitHub"
         src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/0xdineshkumarsm" target="_blank"><img alt="LinkedIn"
+    <a href="https://www.linkedin.com/in/dineshkumarsm" target="_blank"><img alt="LinkedIn"
         src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <!-- <a href="https://medium.com/" target="_blank"><img alt="Medium"
         src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
     <a href="https://www.reddit.com/user/" target="_blank"><img alt="Reddit"
         src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a> -->
-    <a href="https://twitter.com/0xsmdk" target="_blank"><img alt="Twitter"
+    <a href="https://twitter.com/0xKitetsu" target="_blank"><img alt="Twitter"
         src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
