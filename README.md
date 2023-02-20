@@ -20,7 +20,7 @@
  - ![](solidity_engineer.svg)
  - Interested in EVM,DeFi,NFT
  - Exploring ZKP
-## Skills
+<!-- ## Skills
 #### ⌨️ Programming languages
 - Solidity, Yul, Huff
 - Rust
@@ -31,7 +31,7 @@
 - [Truffle Suite](https://trufflesuite.com)
 - web3js
 - ethersjs
-
+ -->
 ## GitPOAPs
 <p><a href="https://www.gitpoap.io/gp/502"><img src="https://assets.poap.xyz/gitpoap-2022-smol-evm-contributor-2022-logo-1664478575915.png"  alt="poap" height="200" width="200"></a>  </p>
 <!--
