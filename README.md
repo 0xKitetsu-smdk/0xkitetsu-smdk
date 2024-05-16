@@ -40,8 +40,8 @@ https://gitpoap-gh-badge.herokuapp.com/badges/0xKitetsu-smdk
 -->
 
 
-![Pascal's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=0xKitetsu-smdk&count_private=true&show_icons=true&theme=tokyonight)
+![Pascal's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=0xKitetsu-dinesh&count_private=true&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=0xKitetsu-smdk&layout=compact&langs_count=8&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=0xKitetsu-dinesh&layout=compact&langs_count=8&theme=tokyonight)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=0xdineshkumarsm.count_visitors)
