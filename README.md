@@ -44,4 +44,4 @@ https://gitpoap-gh-badge.herokuapp.com/badges/0xKitetsu-smdk
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=0xKitetsu-dinesh&layout=compact&langs_count=8&theme=tokyonight)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=0xdineshkumarsm.count_visitors)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=0xkitetsu-dinesh.count_visitors)
